@@ -11,7 +11,7 @@ The image-generation scripts used to produce this dataset are released in a sepa
 
 The dataset provides a controlled, prompt-matched collection of 512 × 512 PNG images from six text-to-image (T2I) generators, together with the 100 train/test splits used in the paper and a designated _average_ split for reproducible benchmarking.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20038953.svg)](https://doi.org/10.5281/zenodo.20038953)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.20038953-blue)](https://doi.org/10.5281/zenodo.20038953)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](LICENSE.txt)
 [![Paper](https://img.shields.io/badge/paper-arXiv%3A2509.15270-b31b1b)](https://arxiv.org/abs/2509.15270)
 [![GitHub](https://img.shields.io/badge/GitHub-emarich18--res/PRISM--36K-238636)](https://github.com/emarich18-res/PRISM-36K)
