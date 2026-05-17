@@ -1,0 +1,41 @@
+prompt_id,length,pair_id,prompt
+1,short,1,A cat lying on the table
+2,short,2,A dog running on grass
+3,short,3,A man walking on sand
+4,short,4,An astronaut flying into space
+5,short,5,A girl swimming in the sea
+6,short,6,An apple in a fruit bowl
+7,short,7,A starred night in the dark
+8,short,8,A sailboat in the stormy sea
+9,short,9,A bird perched on a tree
+10,short,10,A scene from War and Peace
+11,short,11,A butterfly landing on a flower
+12,short,12,A child playing in the snow
+13,short,13,A chef cooking in a kitchen
+14,short,14,A car driving through mountains
+15,short,15,A painter working on a canvas
+16,short,16,A wave crashing against rocks
+17,short,17,A robot building a structure
+18,short,18,A fox hiding in bushes
+19,short,19,A balloon floating in the sky
+20,short,20,A writer typing on a laptop
+21,long,1,A cat lying on the table while its owner throws it a yellow and red ball to play with
+22,long,2,A dog running across the grass towards a child waiting for him with open arms
+23,long,3,A man walking on the beach with his son on the shore of a stormy sea with a purple kite
+24,long,4,An astronaut flying in space observing Planet Earth from black space in his white suit
+25,long,5,A girl swimming in the sea with curly blond hair next to a white sailboat with a black hull
+26,long,6,An apple in a fruit bowl during a huge sandstorm in the red Sahara desert near a waterhole
+27,long,7,A starred night in the dark as a shining comet passes by with a vortex of lightning stars
+28,long,8,A sailboat in the stormy sea under a black hole with flying fairies playing classical music
+29,long,9,A bird perched on a tree with code flowing through its branches with a clock showing 12 am
+30,long,10,A scene from War and Peace reinterpreted in a futuristic landscape with robots instead of humans
+31,long,11,A butterfly landing on a flower while a photographer tries to capture the moment
+32,long,12,A child playing in the snow with red mittens while building an ice castle that glows with blue light
+33,long,13,A chef cooking in a kitchen filled with steam as magical ingredients float in the air
+34,long,14,A car driving through mountains on a winding road with colorful autumn leaves swirling around
+35,long,15,A painter working on a canvas while the subjects of the painting step into the real world
+36,long,16,A wave crashing against rocks revealing an ancient underwater city with merfolk observers
+37,long,17,A robot building a structure made of translucent crystals on the surface of Mars
+38,long,18,A fox hiding in bushes with a pocket watch around its neck as it waits for the perfect moment
+39,long,19,A balloon floating in the sky carrying a tiny house with a chimney that releases rainbow smoke
+40,long,20,A writer typing on a laptop beside a window showing different dimensions with each keystroke
