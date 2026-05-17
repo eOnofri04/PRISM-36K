@@ -10,6 +10,15 @@ Dataset releases are versioned as `MAJOR.MINOR.PATCH`:
 
 ---
 
+## [1.0.1] — 2026-05-07
+
+### Modified
+- Update related generation code GitHub user from `emarich18-res` to `emarich`.  
+
+[1.0.1]: https://doi.org/10.5281/zenodo.20065919
+
+---
+
 ## [1.0.0] — 2026-05-06
 
 ### Added

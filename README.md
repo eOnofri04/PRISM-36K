@@ -7,14 +7,14 @@ It accompanies the paper
 > "PRISM: Phase-enhanced Radial-based Image Signature Mapping for AI-Generated Image Attribution"  
 > E. Ricco, E. Onofri, L. Cima, S. Cresci, R. Di Pietro 2025; arXiv:2509.15270
 
-The image-generation scripts used to produce this dataset are released in a separate GitHub repository at [emarich18-res/PRISM-36K](https://github.com/emarich18-res/PRISM-36K). The PRISM classifier and evaluation code will be released upon full paper acceptance.
+The image-generation scripts used to produce this dataset are released in a separate GitHub repository at [emarich/PRISM-36K](https://github.com/emarich/PRISM-36K). The PRISM classifier and evaluation code will be released upon full paper acceptance.
 
 The dataset provides a controlled, prompt-matched collection of 512 × 512 PNG images from six text-to-image (T2I) generators, together with the 100 train/test splits used in the paper and a designated _average_ split for reproducible benchmarking.
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.20038953-blue)](https://doi.org/10.5281/zenodo.20038953)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.20065919-blue)](https://doi.org/10.5281/zenodo.20065919)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](LICENSE.txt)
 [![Paper](https://img.shields.io/badge/paper-arXiv%3A2509.15270-b31b1b)](https://arxiv.org/abs/2509.15270)
-[![GitHub](https://img.shields.io/badge/GitHub-emarich18--res/PRISM--36K-238636)](https://github.com/emarich18-res/PRISM-36K)
+[![GitHub](https://img.shields.io/badge/GitHub-emarich/PRISM--36K-238636)](https://github.com/emarich/PRISM-36K)
 
 ---
 
@@ -206,8 +206,8 @@ If you use PRISM-36K in your work, please cite both the paper and the dataset re
   title     = {{PRISM-36K}: A Benchmark Dataset for AI-Generated Image Attribution},
   year      = {2025},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.20038953},
-  url       = {https://doi.org/10.5281/zenodo.20038953}
+  doi       = {10.5281/zenodo.20065919},
+  url       = {https://doi.org/10.5281/zenodo.20065919}
 }
 ```
 
@@ -229,7 +229,7 @@ Users intending to use these images for purposes beyond academic research should
 
 ## Companion code
 
-- **Generation scripts** — the code used to issue prompts to each generator and produce this dataset is maintained at [github.com/emarich18-res/PRISM-36K](https://github.com/emarich18-res/PRISM-36K).
+- **Generation scripts** — the code used to issue prompts to each generator and produce this dataset is maintained at [github.com/emarich/PRISM-36K](https://github.com/emarich/PRISM-36K).
 - **PRISM classifier and evaluation code** — released upon full paper acceptance.
 
 ---

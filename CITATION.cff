@@ -7,9 +7,9 @@ type: dataset
 version: 1.0.0
 date-released: "2025-01-01"
 license: CC-BY-4.0
-doi: 10.5281/zenodo.20038953
-url: "https://doi.org/10.5281/zenodo.20038953"
-repository-code: "https://github.com/emarich18-res/PRISM-36K"
+doi: 10.5281/zenodo.20065919
+url: "https://doi.org/10.5281/zenodo.20065919"
+repository-code: "https://github.com/emarich/PRISM-36K"
 
 authors:
   - family-names: Ricco
